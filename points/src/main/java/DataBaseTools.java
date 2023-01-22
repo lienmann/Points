@@ -13,8 +13,8 @@ import java.util.logging.Logger;
  */
 
 public class DataBaseTools implements IDataBase {
-private static final String NAME_USER="lienman";
-private static final String PASSWORLD_USER="30209898qWe`";
+private static final String NAME_USER="";
+private static final String PASSWORLD_USER="";
 private static  String NAME_DATA_BASE="";
 private static  String NAME_TABLE="";
 
